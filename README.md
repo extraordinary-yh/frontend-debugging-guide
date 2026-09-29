@@ -4,7 +4,7 @@ An interactive frontend production-debugging guide built around a fictional comm
 
 **[Open the live guide](https://extraordinary-yh.github.io/frontend-debugging-guide/)**
 
-Six sections connect customer impact, field metrics, network/backend timing, browser work, controlled experiments and recovery. All 27 demonstrations have instructions, named states, local playback/reset and directly manipulable controls. Includes real DOM filtering, search, geometry and a 10,000-row versus virtualized-list experiment.
+Six sections connect customer impact, field metrics, network/backend timing, browser work, controlled experiments and recovery. All 27 demonstrations have instructions, named states, one Play/Pause control, a secondary Restart action and directly manipulable controls. Responsive panels match the reading layout, with collapsible Contents and no nested scrollbar navigation. Includes real DOM filtering, search, geometry and a 10,000-row versus virtualized-list experiment with a row-position slider.
 
 The incident, timings and traces are illustrative. Requests and backend operations are local simulations; no production service or database is contacted. The project was developed with AI-assisted coding and iterative editorial review. It is an educational artifact, not a claim of an observed production incident.
 
